@@ -65,6 +65,8 @@ src
 
 ## 🗄️ Database Setup
 
+[Database Script](database.sql)
+
 Tüm tabloları oluşturmak için:
 
 👉 `database.sql` dosyasını çalıştırın
