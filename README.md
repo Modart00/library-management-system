@@ -1,5 +1,7 @@
 # 📚 Library Management System (v2)
 
+![Library GUI](gui.png)
+
 Java ile geliştirilmiş, veritabanı destekli kütüphane yönetim sistemi.
 
 ---
@@ -154,4 +156,11 @@ Developed as part of learning:
 
 https://github.com/Modart00/library-management-system
 
+## 🖥️ GUI
+
+### Ana Ekran
+![Main](gui.png)
+
+### Ürün Ekleme
+![Add Item](add.png)
 
