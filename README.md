@@ -8,6 +8,8 @@ Java ile geliştirilmiş, veritabanı destekli kütüphane yönetim sistemi.
 
 ## 🚀 Features
 
+- Real-time availability check system
+
 ### 📦 Ürün Yönetimi
 
 * Kitap, DVD ve Dergi ekleme
@@ -140,6 +142,16 @@ DatabaseConnection.java
 dosyasındaki USER ve PASSWORD bilgilerini kendi sisteminize göre düzenleyin.
 
 ---
+
+## 🧪 Example Output
+
+--- Kütüphane Listesi ---
+ID: 1 | Type: BOOK | Title: Don Kişot | Author: Bilinmiyor | Page: 150| Durum: ✔ Müsait
+ID: 2 | Type: BOOK | Title: 1984 | Author: George Orwell | Page: 137| Durum: ✔ Müsait
+ID: 3 | Type: BOOK | Title: Hayvan Çiftliği | Author: George Orwell | Page: 196| Durum: ✔ Müsait
+ID: 4 | Type: BOOK | Title: Sefiller | Author: Victor Hugo | Page: 150| Durum: ✔ Müsait
+ID: 5 | Type: BOOK | Title: Denemeler | Author: Montaigne | Page: 328| Durum: ✔ Müsait
+ID: 6 | Type: BOOK | Title: Suç ve Ceza | Author: Dostoevsky | Page: 250| Durum: ✖ Ödünçte
 
 ## 👨‍💻 Author
 
