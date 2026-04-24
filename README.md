@@ -148,6 +148,7 @@ dosyasındaki USER ve PASSWORD bilgilerini kendi sisteminize göre düzenleyin.
 ## 🧪 Example Output
 
 --- Kütüphane Listesi ---
+
 ID: 1 | Type: BOOK | Title: Don Kişot | Author: Bilinmiyor | Page: 150| Durum: ✔ Müsait
 ID: 2 | Type: BOOK | Title: 1984 | Author: George Orwell | Page: 137| Durum: ✔ Müsait
 ID: 3 | Type: BOOK | Title: Hayvan Çiftliği | Author: George Orwell | Page: 196| Durum: ✔ Müsait
